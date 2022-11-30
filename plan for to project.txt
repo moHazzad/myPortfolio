@@ -1,0 +1,4 @@
+1. Create HTML basic structure.
+2. style html elements.
+3. find all the html and add listener.
+4.
